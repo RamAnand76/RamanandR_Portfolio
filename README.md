@@ -1,5 +1,5 @@
-# JohnDoe
+# Ramanand R
 
-A Responsive Free One Page Portfolio Website template
+A personal Portfolio web site about me.
 
 #E04343
